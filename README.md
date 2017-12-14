@@ -75,6 +75,6 @@ Now that everything’s working, it’s time to deploy it on the MainNet and let
 Step 6
 
 This step is not required, but it adds to the validity of your token if you get it verified by them.
-Congrats! & Next Steps
+Congrats! 
 
 .
